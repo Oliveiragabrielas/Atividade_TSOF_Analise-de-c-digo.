@@ -1,5 +1,4 @@
 # Atividade_TSOF_Analise-de-c-digo.
-Sim, nesse caso, se a atividade considerou **R$ 100,00**, fica melhor assim:
 
 # README – Testes de Software
 
