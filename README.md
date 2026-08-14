@@ -5,13 +5,7 @@
 **Aluna:** Gabriela de Oliveira
 **Turma:** ____2IG-DS_______
 **Data:** 14/08/26
-
-# README – Testes de Software
-
-## 👩‍💻 Aluna
-
-**Gabriela de Oliveira**
-**Turma:** ___________
+__
 
 ## 📚 Sobre a atividade
 
