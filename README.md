@@ -4,6 +4,7 @@
 
 **Aluna:** Gabriela de Oliveira
 **Turma:** ____2IG-DS_______
+**Data:** 14/08/26
 
 Nesta atividade da Aula 1, aprendemos sobre os fundamentos dos **Testes de Software**, como erro, defeito (bug), falha, testes funcionais e não funcionais e os níveis de teste: unitário, integração, sistema e aceitação.
 
