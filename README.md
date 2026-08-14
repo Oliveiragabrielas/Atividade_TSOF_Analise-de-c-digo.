@@ -21,7 +21,7 @@ Vimos os seguintes assuntos:
 * Teste de aceitação;
 * Pirâmide de testes.
 
-## 🏢 Estudo de caso
+##  Estudo de caso
 
 Usamos o exemplo da empresa **TechSolutions**, que criou um aplicativo para organizar eventos acadêmicos.
 
@@ -47,7 +47,7 @@ O código tira apenas **R$ 10,00** do valor do ingresso, em vez de calcular os *
 
 Por exemplo, em um ingresso de R$ 250,00, o desconto deveria ser R$ 25,00, mas o código daria apenas R$ 10,00 de desconto.
 
-## 🧪 Tipos de teste
+##  Tipos de teste
 
 **Funcional:** verifica se uma função do sistema está funcionando corretamente.
 
@@ -60,6 +60,6 @@ Por exemplo, em um ingresso de R$ 250,00, o desconto deveria ser R$ 25,00, mas o
 * **Sistema:** testa o sistema completo.
 * **Aceitação:** verifica se o sistema atende ao que o usuário precisa.
 
-## 🎯 O que aprendi
+##  O que aprendi
 
 Com essa atividade, aprendi como identificar bugs no código e a diferença entre os tipos e níveis de testes. Também entendi que testar o sistema ajuda a encontrar problemas antes que eles cheguem aos usuários.
