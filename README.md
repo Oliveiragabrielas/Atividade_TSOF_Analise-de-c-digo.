@@ -42,11 +42,9 @@ Um dos problemas encontrados foi no cálculo do desconto:
 ```python
 valor_final = valor_base - 10
 ```
+O código tira R$ 10,00 do valor do ingresso, em vez de calcular os 10% de desconto.
 
-O código tira apenas **R$ 10,00** do valor do ingresso, em vez de calcular os **10% de desconto**.
-
-Por exemplo, em um ingresso de R$ 250,00, o desconto deveria ser R$ 25,00, mas o código daria apenas R$ 10,00 de desconto.
-
+No exemplo de um ingresso de R$ 100,00, o desconto de 10% seria R$ 10,00, então o valor final seria R$ 90,00. Nesse caso, o resultado está correto, mas o código pode apresentar erro caso o valor do ingresso seja diferente
 ##  Tipos de teste
 
 **Funcional:** verifica se uma função do sistema está funcionando corretamente.
